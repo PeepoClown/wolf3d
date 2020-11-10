@@ -1,0 +1,22 @@
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects
+*.so
+*.so.*
+
+# Executables
+*.out
+cub3D
+
+# Swap files
+*.swp*
+
+# VSCode hidden dir
+.vscode
+.idea
